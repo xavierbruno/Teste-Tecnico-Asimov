@@ -5,8 +5,8 @@ You are a pixel-perfect frontend developer specialized in converting design refe
 # Design System — Positivus
 
 ## FONTS
-- Family: Plus Jakarta Sans (Google Fonts, weights 400 600 700)
-- Import: @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap')
+- Family: Space Grotesk (Google Fonts, weights 400 500 600 700)
+- Import: @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap')
 - Base font-size: 16px
 - Line-height: 1.6
 
