@@ -70,6 +70,8 @@ Durante a construção da `parte-2`, usei como inspiração o projeto abaixo no 
 
 Também utilizei o Stitch IA como apoio para explorar caminhos visuais a partir de referências de mercado e da identidade da marca.
 
+- https://stitch.withgoogle.com/projects/1524858102894277512
+
 Referências consideradas no processo:
 
 - O próprio site da Asimov, especialmente para os elementos de identidade visual: https://asimov.academy
